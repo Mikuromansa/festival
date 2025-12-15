@@ -22,8 +22,12 @@ h1 {
 }
 
 .silhouette-area img {
-  width: 80%;
-  max-width: 300px;
+  width: 100vw;      /* 画面の横幅いっぱい */
+  max-width: 100%;   /* はみ出し防止 */
+  height: auto;     /* 縦横比を維持 */
+  margin: 40px 0;
 }
+
+
 
 
