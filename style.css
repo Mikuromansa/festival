@@ -1,0 +1,22 @@
+body {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 48px;
+  letter-spacing: 4px;
+}
+
+.silhouette-area img {
+  width: 300px;
+  margin: 40px 0;
+}
+
+.hint {
+  font-size: 20px;
+  opacity: 0.8;
+}
